@@ -1,0 +1,78 @@
+body{
+	background-image: url("img/background.jpg");
+	line-height: 1.5 line;
+	font-family: Trebuchet MS;
+	color: #9e4244;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin:0px;
+	padding:0px;
+	font-style: none;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+}
+
+#welcome_message{
+	font-family: brush script mt;
+	color: #9e4244;
+	font-size: 40px;
+	text-align: center;
+	padding: 0px;
+	margin: auto;
+	margin-top: 75px;
+	margin-bottom: 0px;
+	width: 70%;
+}
+
+#welcome_message p{
+	margin: 0px;
+	padding: 0px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+}
+
+nav{
+	margin: auto;
+}
+
+nav ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: auto;
+	width: 200px;
+}
+
+nav li a{
+	text-decoration: none;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+	background-color: #9e4244;
+}
+
+#message{
+	background-color: white;
+	color: #9e4244;
+	font-size: 16px;
+	text-align: justify;
+	padding: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 500px;
+	opacity: 0.75;
+}
+
+#message h1{
+	font-size: 30px;
+}
